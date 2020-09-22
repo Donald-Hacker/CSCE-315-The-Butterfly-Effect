@@ -1,0 +1,226 @@
+
+    body {
+        margin: 0;
+        background: white;
+    }
+
+    .div-title {
+        position: relative;
+        margin: 0 auto;
+        width: 100%;
+        top: -40px;
+        height: 80px;
+        background:black;
+
+    }
+
+    .div-date 
+    {
+        position: relative;
+        margin: 0 auto;
+        font-family: "Lucida Console", Monaco, monospace;
+        width: 10%;
+        top: -40px;
+        height:60px;
+        color: white;
+        padding-top: 10px;
+        padding-bottom: 30px;
+        
+    }
+
+    .p-title {
+        font-size: 40px;
+        text-align: center;
+        color: white;
+        position: relative;
+        top: 15px;
+
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+    }
+      
+    .li-nav {
+        float: right;
+    }
+      
+    .li-nav a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+      
+    li a:hover:not(.active) {
+        background-color: #111;
+    }
+      
+    .active {
+        background-color: #4CAF50;
+    }
+
+    /* Add a black background color to the top navigation  */
+    .topnav {
+        background-color: #333;
+        overflow: hidden;
+        position: relative;
+        top: -40px;
+
+    }
+
+    .navigation-title{
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    .column {
+        float: left;
+        padding: 10px;
+        height: 525px;
+        position: relative;
+        top: -70px;
+        box-shadow: 5px 8px #888888;
+        border: 1px solid black;
+        border-radius: 25px; 
+        height: auto;
+    }
+
+    /* twitter and facebook box */
+    .left,
+    .middle {
+        width: 22%;
+        margin-left: 3%;
+        margin-left: 3%;
+        box-shadow: 5px 8px #888888;
+        border: 1px solid black;
+        border-radius: 25px;    
+        min-height: 500px; 
+        height: auto;   
+        
+
+    }
+
+    /* additional information box */
+    .right {
+        width: 40%;
+        margin-left: 3%;
+        margin-left: 3%;
+    }
+
+    /* Clear floats after the columns */
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    .h1-twitter-title {
+        text-align: center;
+        border: 1px solid black;
+        border-radius: 25px;
+        background: white;
+        text-shadow: #111;
+
+    }
+
+    
+
+    .h1-facebook-title {
+        text-align: center;
+        border: 1px solid black;
+        border-radius: 25px;
+        background: white;
+        text-shadow: #111;
+    }
+
+    .h1-additional-information-title {
+        text-align: center;
+        border: 1px solid black;
+        border-radius: 25px;
+        background: white;
+        text-shadow: #111;
+    }
+
+    .h3-wiki-sumary-title {
+        text-align: center;
+    }
+
+    .p-wiki-summary-description {
+        border: 1px solid black;
+        border-radius: 25px;
+        line-height: 100px;
+        text-align: center;
+        width: 93%;
+        position: relative;
+        left: 4%;
+        line-height: normal;
+        padding: 10px;
+        height: auto; 
+
+    }
+
+
+
+    .li-trend-list {
+        text-align: center;
+        height: 50px;
+
+    }
+
+    .div-additional-information-API:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    .additional-information-column {
+        float: left;
+        padding: 10px;
+        height: 200px;
+        margin-left: 4%;
+    }
+
+    .div-sentiment-API {
+        width: 40%;
+        border: 1px solid black;
+        position: relative;
+        font-size: 72;
+        height: auto;
+        position: relative;
+        top: -40px;
+        border-radius: 25px;
+    }
+
+    .div-additional-API {
+        width: 40%;
+        margin-left: 6%;
+        border: 1px solid black;
+        position: relative;
+        top: 0px;
+        height: auto;
+        border-radius: 25px;
+    }
+
+    .h3-sentiment-API {
+        position: relative;
+        left: 15%;
+        top: -40px;
+    }
+
+    .h3-additional-API {
+        position: relative;
+        left: 12%;
+        top: 0px;
+        height: auto;
+    }
+
+   

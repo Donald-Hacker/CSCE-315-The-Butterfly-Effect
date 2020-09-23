@@ -1,4 +1,4 @@
-# CSCE 315 HCI Project
+# The Butterfly Effect: A Social Media Contextualizer
 
 Developed By Donald Hacker, Nicholas Cashiola, and Ryan Clark
 

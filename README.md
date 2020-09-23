@@ -2,7 +2,7 @@
 
 Developed By Donald Hacker, Nicholas Cashiola, and Ryan Clark
 
-#Project Description
+## Project Description
 
 The Butterfly Effect is a web-based application that intends to aggregate all useful information on a given topic into a single destination. Currently, users of social media have to travel to different sites in order to obtain specific information on trending topics. The Butterfly Effect changes this by displaying trending topics, corresponding descriptions, and financial data all on one page. With the click of a button, users of the Butterfly Effect are able to view all relevant information on a given topic. 
 
